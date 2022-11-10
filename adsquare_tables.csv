@@ -1,0 +1,6 @@
+dataset_id,table_id
+adsquare,adsquare_category_mapping
+adsquare,gp_flat_meta_data
+adsquare,ios_flat_meta_data
+adsquare,onesignal_all_vs_last6months_users
+adsquare,sample_data_20170105
