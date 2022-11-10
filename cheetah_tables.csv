@@ -1,0 +1,5 @@
+dataset_id,table_id
+cheetah,daily_installs_sampo
+cheetah,daily_uninstalls_sampo
+cheetah,priordata_test_dat
+cheetah,running_app_list_sampo
