@@ -1,0 +1,10 @@
+dataset_id,table_id
+baking_artifobs,cumulative_downloads20191021
+baking_artifobs,dl_multiplier20191021
+baking_artifobs,estimate_cumulative_dl20191016
+baking_artifobs,estimate_dailydl20191017
+baking_artifobs,gp_baked
+baking_artifobs,gp_baked_v2
+baking_artifobs,ios_baked
+baking_artifobs,ios_baked_v2
+baking_artifobs,time_downloads20191014
