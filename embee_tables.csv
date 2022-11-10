@@ -1,0 +1,6 @@
+dataset_id,table_id
+embee,app_session
+embee,app_session_event_elements
+embee,app_session_events
+embee,collection
+embee,demo
