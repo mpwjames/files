@@ -1,0 +1,5 @@
+dataset_id,table_id
+Billing,cloud_pricing_export
+Billing,gcp_billing_export_resource_v1_00D68C_29D520_A408FE
+Billing,gcp_billing_export_v1_00D68C_29D520_A408FE
+Billing,priori_gcp
