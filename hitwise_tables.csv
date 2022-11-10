@@ -1,0 +1,11 @@
+dataset_id,table_id
+hitwise,daily_estimates
+hitwise,delivery_gp
+hitwise,delivery_ios
+hitwise,gp_results
+hitwise,ios_results
+hitwise,metadata
+hitwise,priori_sample_gp
+hitwise,priori_sample_ios
+hitwise,test_gp
+hitwise,test_ios
